@@ -1,5 +1,13 @@
 # DevTrack
 
+<p align="center">
+  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-Kanban-F7DF1E?logo=javascript&logoColor=black">
+  <img alt="HTML5" src="https://img.shields.io/badge/HTML5-Web-E34F26?logo=html5&logoColor=white">
+  <img alt="CSS3" src="https://img.shields.io/badge/CSS3-Responsive-1572B6?logo=css3&logoColor=white">
+  <a href="https://github.com/dudxzz-25/devtrack/actions/workflows/ci.yml"><img alt="CI" src="https://github.com/dudxzz-25/devtrack/actions/workflows/ci.yml/badge.svg"></a>
+</p>
+
+
 [![CI](https://github.com/dudxzz-25/devtrack/actions/workflows/ci.yml/badge.svg)](https://github.com/dudxzz-25/devtrack/actions/workflows/ci.yml)
 
 Kanban responsivo para gerenciamento de tarefas desenvolvido com **HTML, CSS e JavaScript puro**, com persistência local no navegador e foco em uma experiência simples de produtividade.
