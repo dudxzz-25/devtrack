@@ -1,5 +1,7 @@
 # DevTrack
 
+[![CI](https://github.com/dudxzz-25/devtrack/actions/workflows/ci.yml/badge.svg)](https://github.com/dudxzz-25/devtrack/actions/workflows/ci.yml)
+
 Kanban responsivo para gerenciamento de tarefas desenvolvido com **HTML, CSS e JavaScript puro**, com persistência local no navegador e foco em uma experiência simples de produtividade.
 
 ## ✨ Funcionalidades
